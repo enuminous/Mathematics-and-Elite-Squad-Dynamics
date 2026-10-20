@@ -46,6 +46,7 @@ This journal publishes exact derivations next to spectacular editorial insolence
 5. [The Ministry of Percolation: When a Rumor Becomes a Government](articles/05-percolation-ministry.md)
 6. [The Condorcet Buzzards and the Mathematically Elected Disaster](articles/06-condorcet-buzzards.md)
 7. [The Wright Force, Not Yet: A Field Theory of Monumental Self-Regard](articles/07-the-wright-force-not-yet.md)
+8. [The Emotional Support Axiom: Professor Pickle, PhD (Pending)](articles/08-emotional-support-axiom.md) — an unofficial Rick-and-Morty-inspired courtroom satire about Lean axioms and peer review.
 
 ### Editorial standard
 Every article separates **proven statements inside explicit toy models**, **testable hypotheses**, and **satire**. A rigorous proof of a toy model does not verify its political metaphor. EFMW and the Zoo are subjects of investigation, not axioms exempt from scrutiny.
