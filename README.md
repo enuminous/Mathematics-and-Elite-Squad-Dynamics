@@ -48,6 +48,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 7. [The Wright Force, Not Yet: A Field Theory of Monumental Self-Regard](articles/07-the-wright-force-not-yet.md)
 8. [The Emotional Support Axiom: Professor Pickle, PhD (Pending)](articles/08-emotional-support-axiom.md) — an unofficial Rick-and-Morty-inspired courtroom satire about Lean axioms and peer review.
 
+9. [The Denominator Has Been Promoted](articles/09-denominator-promoted.md) — Simpson’s paradox, a ministerial medal, and exact arithmetic with invented data.
+
 ### Editorial standard
 Every article separates **proven statements inside explicit toy models**, **testable hypotheses**, and **satire**. A rigorous proof of a toy model does not verify its political metaphor. EFMW and the Zoo are subjects of investigation, not axioms exempt from scrutiny.
 
