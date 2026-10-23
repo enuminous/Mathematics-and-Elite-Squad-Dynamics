@@ -50,6 +50,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 9. [The Denominator Has Been Promoted](articles/09-denominator-promoted.md) — Simpson’s paradox, a ministerial medal, and exact arithmetic with invented data.
 
+10. [The Academy of Lossless Forgetting](articles/10-academy-of-lossless-forgetting.md) — universal compression meets the pigeonhole principle, a cathedral-sized dictionary, and a professor classified as storage.
+
 ### Editorial standard
 Every article separates **proven statements inside explicit toy models**, **testable hypotheses**, and **satire**. A rigorous proof of a toy model does not verify its political metaphor. EFMW and the Zoo are subjects of investigation, not axioms exempt from scrutiny.
 
