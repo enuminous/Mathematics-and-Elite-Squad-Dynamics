@@ -51,6 +51,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 10. [The Academy of Lossless Forgetting](articles/10-academy-of-lossless-forgetting.md) — universal compression meets the pigeonhole principle, a cathedral-sized dictionary, and a professor classified as storage.
 
+11. [The Great Spaghetti Ballot Collapse of 2026: Trump Was on the Ballot Until Someone Counted the Noodles](articles/12-great-spaghetti-ballot-collapse-2026.md) — election-night rhetorical superposition, a recursive colander, and the formal limits of pasta physics. **Political satire; verified quotations cited.**
+
 ### Editorial standard
 Every article separates **proven statements inside explicit toy models**, **testable hypotheses**, and **satire**. A rigorous proof of a toy model does not verify its political metaphor. EFMW and the Zoo are subjects of investigation, not axioms exempt from scrutiny.
 
