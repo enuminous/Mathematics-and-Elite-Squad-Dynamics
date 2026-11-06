@@ -53,6 +53,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 11. [The Great Spaghetti Ballot Collapse of 2026: Trump Was on the Ballot Until Someone Counted the Noodles](articles/12-great-spaghetti-ballot-collapse-2026.md) — election-night rhetorical superposition, a recursive colander, and the formal limits of pasta physics. **Political satire; verified quotations cited.**
 
+12. [The Pentagon Pity Party: Pete Hegseth and the Impeachment Endurance Event](articles/13-the-pentagon-pity-party-hegseth-impeachment-2026.md) — November 6 political satire: DEFCON WHINE, KLEENEX-35, and the Conservation of Congressional Hot Air. **Verified news premise; invented dialogue and calculations.**
+
 ### Editorial standard
 Every article separates **proven statements inside explicit toy models**, **testable hypotheses**, and **satire**. A rigorous proof of a toy model does not verify its political metaphor. EFMW and the Zoo are subjects of investigation, not axioms exempt from scrutiny.
 
