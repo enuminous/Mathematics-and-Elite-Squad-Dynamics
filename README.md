@@ -57,6 +57,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 13. [NVIDIA Unveils World's First GPU-Accelerated Conflict of Interest — CUDA 13: Compromised Unified Dating Architecture](articles/14-nvidia-cuda-13-compromised-unified-dating-architecture.md) — November 9, 2026. The leather-jacketed singularity meets zero-trust leadership, fictional HoneyTrapGPT, SORRYCHAIN, and the EFMW Zoo. **Dispatch 14; tech-bro satire.** Jensen Huang's acknowledgment and Nvidia's investigation are reported; espionage and compromise of secrets remain **unproven**, and all keynote dialogue is invented.
 
+14. **SPECIAL DISPATCH 15 — [I Am the Leather Jacket: A Deposition From Retrospace](articles/15-i-am-the-leather-jacket-retrospace-deposition-2026-11-09.md)** — November 9, 2026. The CEO's black leather jacket testifies in a twelve-part fictional corporate-security deposition: founder authentication, institutional mythology, frozen protocols, and the garment's immortal conclusion, **“I can conceal a shirt. I cannot conceal an evidentiary gap.”** *Girnus Technique No. 014; explicitly fictional testimony. Real reporting is cited separately; espionage allegations remain unresolved.*
+
 ### Editorial standard
 Every article separates **proven statements inside explicit toy models**, **testable hypotheses**, and **satire**. A rigorous proof of a toy model does not verify its political metaphor. EFMW and the Zoo are subjects of investigation, not axioms exempt from scrutiny.
 
