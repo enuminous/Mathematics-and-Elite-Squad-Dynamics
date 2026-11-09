@@ -55,6 +55,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 12. [The Pentagon Pity Party: Pete Hegseth and the Impeachment Endurance Event](articles/13-the-pentagon-pity-party-hegseth-impeachment-2026.md) — November 6 political satire: DEFCON WHINE, KLEENEX-35, and the Conservation of Congressional Hot Air. **Verified news premise; invented dialogue and calculations.**
 
+13. [NVIDIA Unveils World's First GPU-Accelerated Conflict of Interest — CUDA 13: Compromised Unified Dating Architecture](articles/14-nvidia-cuda-13-compromised-unified-dating-architecture.md) — November 9, 2026. The leather-jacketed singularity meets zero-trust leadership, fictional HoneyTrapGPT, SORRYCHAIN, and the EFMW Zoo. **Dispatch 14; tech-bro satire.** Jensen Huang's acknowledgment and Nvidia's investigation are reported; espionage and compromise of secrets remain **unproven**, and all keynote dialogue is invented.
+
 ### Editorial standard
 Every article separates **proven statements inside explicit toy models**, **testable hypotheses**, and **satire**. A rigorous proof of a toy model does not verify its political metaphor. EFMW and the Zoo are subjects of investigation, not axioms exempt from scrutiny.
 
