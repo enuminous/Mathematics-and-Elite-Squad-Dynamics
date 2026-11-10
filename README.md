@@ -59,6 +59,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 14. **SPECIAL DISPATCH 15 — [I Am the Leather Jacket: A Deposition From Retrospace](articles/15-i-am-the-leather-jacket-retrospace-deposition-2026-11-09.md)** — November 9, 2026. The CEO's black leather jacket testifies in a twelve-part fictional corporate-security deposition: founder authentication, institutional mythology, frozen protocols, and the garment's immortal conclusion, **“I can conceal a shirt. I cannot conceal an evidentiary gap.”** *Girnus Technique No. 014; explicitly fictional testimony. Real reporting is cited separately; espionage allegations remain unresolved.*
 
+15. **DISPATCH 16 — [The Physicist Is Running Models: Eight Articles of Impeachment Enter the Event Horizon](articles/16-the-physicist-is-running-models-hegseth-gonzo-efmw-2026-11-10.md)** — November 10, 2026. A twelve-part gonzo EFMW satire on Massie's Hegseth impeachment resolution: Particle M, the fictional Narrative Inflation Index, congressional procedural state machines, StorySpace contamination, four conditional headline generators, and the Zoo's evidence boundary. **Real allegations and procedural record sourced; invented dialogues/equations labeled; no calibrated political prediction or finding of misconduct.**
+
 ### Editorial standard
 Every article separates **proven statements inside explicit toy models**, **testable hypotheses**, and **satire**. A rigorous proof of a toy model does not verify its political metaphor. EFMW and the Zoo are subjects of investigation, not axioms exempt from scrutiny.
 
