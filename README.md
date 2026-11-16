@@ -37,6 +37,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 **Read online:** [index.html](index.html) (also suitable for GitHub Pages).
 
+**Latest dispatch — November 16, 2026:** [Dispatch 17: Confessions of a Benchtesting Addict](articles/17-confessions-of-a-benchtesting-addict-2026-11-16.md). A fictional confession about ever stricter protocols, a motionless proof mass, and the force law still waiting to be written.
+
 ### Volume I: The Ministry of Bad Ideas
 1. [The Buzzard Threshold: On the Numerical Superiority of Idiots](articles/01-buzzard-threshold.md)
 2. [The Residual Republic: A Constitution for Error-Correcting Scoundrels](articles/02-residual-republic.md)
@@ -61,6 +63,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 15. **DISPATCH 16 — [The Physicist Is Running Models: Eight Articles of Impeachment Enter the Event Horizon](articles/16-the-physicist-is-running-models-hegseth-gonzo-efmw-2026-11-10.md)** — November 10, 2026. A twelve-part gonzo EFMW satire on Massie's Hegseth impeachment resolution: Particle M, the fictional Narrative Inflation Index, congressional procedural state machines, StorySpace contamination, four conditional headline generators, and the Zoo's evidence boundary. **Real allegations and procedural record sourced; invented dialogues/equations labeled; no calibrated political prediction or finding of misconduct.**
 
+16. **DISPATCH 17 — [Confessions of a Benchtesting Addict](articles/17-confessions-of-a-benchtesting-addict-2026-11-16.md)** — November 16, 2026. A capacitor forgets, the proof mass declines to move, and six unresolved checks become a magnificent gate. **Scientific satire; fictional narrator and dialogue; no laboratory experiment is represented as having occurred.**
+
 ### Editorial standard
 Every article separates **proven statements inside explicit toy models**, **testable hypotheses**, and **satire**. A rigorous proof of a toy model does not verify its political metaphor. EFMW and the Zoo are subjects of investigation, not axioms exempt from scrutiny.
 
@@ -82,3 +86,4 @@ These authors are invoked as intellectual company, **not** as purported endorser
 
 ### License
 Original prose copyright © 2026 Matthew Chenoweth Wright, except where applicable law says otherwise. No license is implied absent a separately added LICENSE file.
+
