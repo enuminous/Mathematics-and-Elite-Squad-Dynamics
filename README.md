@@ -37,9 +37,9 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 **Read online:** [index.html](index.html) (also suitable for GitHub Pages).
 
-**Latest dispatch — November 18, 2026:** [Dispatch 18: Those Goddamn Cliffords](articles/18-those-goddamn-cliffords-2026-11-18.md). A geometric-algebra ambush, an existential rotor sandwich, Professor Chaos, and the radical suggestion that beautiful mathematics is not automatically a cosmic discovery. **Scientific satire; established geometric identities and ROT-004–011 test boundaries remain distinguished from physical claims.**
+**Latest dispatch — November 18, 2026:** [Dispatch 19: The Waiting Room of Maximum Efficiency](articles/19-the-waiting-room-of-maximum-efficiency-2026-11-18.md). A green dashboard, a constitutional waiting room, and a second window devoted to explaining the delay. **Fictional institutional satire; M/M/1 queueing results are stated under explicit assumptions, not presented as observations of an actual office.**
 
-**Previous dispatch — November 16, 2026:** [Dispatch 17: Confessions of a Benchtesting Addict](articles/17-confessions-of-a-benchtesting-addict-2026-11-16.md). A fictional confession about ever stricter protocols, a motionless proof mass, and the force law still waiting to be written.
+**Previous dispatch — November 18, 2026:** [Dispatch 18: Those Goddamn Cliffords](articles/18-those-goddamn-cliffords-2026-11-18.md). A geometric-algebra ambush, an existential rotor sandwich, Professor Chaos, and the radical suggestion that beautiful mathematics is not automatically a cosmic discovery. **Scientific satire; established geometric identities and ROT-004–011 test boundaries remain distinguished from physical claims.**
 
 ### Volume I: The Ministry of Bad Ideas
 1. [The Buzzard Threshold: On the Numerical Superiority of Idiots](articles/01-buzzard-threshold.md)
@@ -68,6 +68,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 16. **DISPATCH 17 — [Confessions of a Benchtesting Addict](articles/17-confessions-of-a-benchtesting-addict-2026-11-16.md)** — November 16, 2026. A capacitor forgets, the proof mass declines to move, and six unresolved checks become a magnificent gate. **Scientific satire; fictional narrator and dialogue; no laboratory experiment is represented as having occurred.**
 
 17. **DISPATCH 18 — [Those Goddamn Cliffords](articles/18-those-goddamn-cliffords-2026-11-18.md)** — November 18, 2026. Geometric algebra sends an unexpected nineteenth-century delegation into a modern cosmology audit. Rotor sandwiches, bivectors, Spin(3), and the repeated discovery that mathematical elegance is not physical confirmation. **Scientific satire; ROT-004–011 negative results are bounded mathematical checks, not a detection of universal rotation.**
+
+18. **DISPATCH 19 — [The Waiting Room of Maximum Efficiency](articles/19-the-waiting-room-of-maximum-efficiency-2026-11-18.md)** — November 18, 2026. Utilization rises from 90 to 99 percent; mean time in the toy queue rises from one hour to ten. **Fictional satire with an explicit mathematical note and a primary teaching source.**
 
 ### Editorial standard
 Every article separates **proven statements inside explicit toy models**, **testable hypotheses**, and **satire**. A rigorous proof of a toy model does not verify its political metaphor. EFMW and the Zoo are subjects of investigation, not axioms exempt from scrutiny.
