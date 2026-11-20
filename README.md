@@ -37,9 +37,11 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 **Read online:** [index.html](index.html) (also suitable for GitHub Pages).
 
-**Latest dispatch — November 19, 2026:** [Dispatch 20: Nothing Happened. See Release Notes.](articles/20-nothing-happened-release-notes-2026-11-19.md). A baseline with the right to win, a bottle of unopened champagne, and a fictional changelog for a versioned null result. **Scientific satire; no new finding is reported.**
+**Latest dispatch — November 19, 2026:** [Dispatch 21: A Modest Proposal for the Improvement of American Civilization Through Grand Theft Auto VI](articles/21-a-modest-proposal-grand-theft-auto-vi-2026-11-19.md). A thirteen-year pilgrimage to digital Florida, where rebellion is licensed and the revolution has a customer-support department. **Satire; fictional figures and scenarios are labeled.**
 
-**Previous dispatch — November 18, 2026:** [Dispatch 19: The Waiting Room of Maximum Efficiency](articles/19-the-waiting-room-of-maximum-efficiency-2026-11-18.md). A green dashboard, a constitutional waiting room, and a second window devoted to explaining the delay. **Fictional institutional satire; M/M/1 queueing results are stated under explicit assumptions, not presented as observations of an actual office.**
+**Previous dispatch — November 19, 2026:** [Dispatch 20: Nothing Happened. See Release Notes.](articles/20-nothing-happened-release-notes-2026-11-19.md). A baseline with the right to win, a bottle of unopened champagne, and a fictional changelog for a versioned null result. **Scientific satire; no new finding is reported.**
+
+**Earlier dispatch — November 18, 2026:** [Dispatch 19: The Waiting Room of Maximum Efficiency](articles/19-the-waiting-room-of-maximum-efficiency-2026-11-18.md). A green dashboard, a constitutional waiting room, and a second window devoted to explaining the delay. **Fictional institutional satire; M/M/1 queueing results are stated under explicit assumptions, not presented as observations of an actual office.**
 
 ### Volume I: The Ministry of Bad Ideas
 1. [The Buzzard Threshold: On the Numerical Superiority of Idiots](articles/01-buzzard-threshold.md)
@@ -71,6 +73,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 18. **DISPATCH 19 — [The Waiting Room of Maximum Efficiency](articles/19-the-waiting-room-of-maximum-efficiency-2026-11-18.md)** — November 18, 2026. Utilization rises from 90 to 99 percent; mean time in the toy queue rises from one hour to ten. **Fictional satire with an explicit mathematical note and a primary teaching source.**
 19. **DISPATCH 20 — [Nothing Happened. See Release Notes.](articles/20-nothing-happened-release-notes-2026-11-19.md)** — November 19, 2026. A baseline with the right to win, a bottle of unopened champagne, and a fictional changelog for a versioned null result. **Scientific satire; no new finding is reported.**
+
+20. **DISPATCH 21 — [A Modest Proposal for the Improvement of American Civilization Through Grand Theft Auto VI](articles/21-a-modest-proposal-grand-theft-auto-vi-2026-11-19.md)** — November 19, 2026. Consumer rebellion, Florida, CrimeGPT, and the heroic infrastructure required to download imaginary criminality. **Launch premises sourced; invented material explicitly satire.**
 
 ### Editorial standard
 Every article separates **proven statements inside explicit toy models**, **testable hypotheses**, and **satire**. A rigorous proof of a toy model does not verify its political metaphor. EFMW and the Zoo are subjects of investigation, not axioms exempt from scrutiny.
