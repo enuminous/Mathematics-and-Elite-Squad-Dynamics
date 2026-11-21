@@ -37,7 +37,9 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 **Read online:** [index.html](index.html) (also suitable for GitHub Pages).
 
-**Latest dispatch — November 19, 2026:** [Dispatch 21: A Modest Proposal for the Improvement of American Civilization Through Grand Theft Auto VI](articles/21-a-modest-proposal-grand-theft-auto-vi-2026-11-19.md). A thirteen-year pilgrimage to digital Florida, where rebellion is licensed and the revolution has a customer-support department. **Satire; fictional figures and scenarios are labeled.**
+**Latest dispatch — November 21, 2026:** [Dispatch 22: Fear and Loathing in the Brady Briefing Room](articles/22-fear-and-loathing-brady-briefing-room-stephen-miller-2026-11-21.md). Gonzo political satire and bounded fact-check of Stephen Miller's November 20 White House remarks. **Annual-versus-cumulative inflation distinguished; reactor criticality left explicitly unresolved.**
+
+**Previous dispatch — November 19, 2026:** [Dispatch 21: A Modest Proposal for the Improvement of American Civilization Through Grand Theft Auto VI](articles/21-a-modest-proposal-grand-theft-auto-vi-2026-11-19.md). A thirteen-year pilgrimage to digital Florida, where rebellion is licensed and the revolution has a customer-support department. **Satire; fictional figures and scenarios are labeled.**
 
 **Previous dispatch — November 19, 2026:** [Dispatch 20: Nothing Happened. See Release Notes.](articles/20-nothing-happened-release-notes-2026-11-19.md). A baseline with the right to win, a bottle of unopened champagne, and a fictional changelog for a versioned null result. **Scientific satire; no new finding is reported.**
 
@@ -73,6 +75,8 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 18. **DISPATCH 19 — [The Waiting Room of Maximum Efficiency](articles/19-the-waiting-room-of-maximum-efficiency-2026-11-18.md)** — November 18, 2026. Utilization rises from 90 to 99 percent; mean time in the toy queue rises from one hour to ten. **Fictional satire with an explicit mathematical note and a primary teaching source.**
 19. **DISPATCH 20 — [Nothing Happened. See Release Notes.](articles/20-nothing-happened-release-notes-2026-11-19.md)** — November 19, 2026. A baseline with the right to win, a bottle of unopened champagne, and a fictional changelog for a versioned null result. **Scientific satire; no new finding is reported.**
+
+21. **DISPATCH 22 — [Dispatch 22: Fear and Loathing in the Brady Briefing Room](articles/22-fear-and-loathing-brady-briefing-room-stephen-miller-2026-11-21.md)** — November 21, 2026. Presidential superlatives meet CPI arithmetic, reactor definitions, and questions from the press room. **Verified quotations and cited data separated from satire; incomplete checks labeled.**
 
 20. **DISPATCH 21 — [A Modest Proposal for the Improvement of American Civilization Through Grand Theft Auto VI](articles/21-a-modest-proposal-grand-theft-auto-vi-2026-11-19.md)** — November 19, 2026. Consumer rebellion, Florida, CrimeGPT, and the heroic infrastructure required to download imaginary criminality. **Launch premises sourced; invented material explicitly satire.**
 
