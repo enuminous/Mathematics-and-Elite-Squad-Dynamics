@@ -37,7 +37,9 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 **Read online:** [index.html](index.html) (also suitable for GitHub Pages).
 
-**Latest dispatch — November 21, 2026:** [Dispatch 22: Fear and Loathing in the Brady Briefing Room](articles/22-fear-and-loathing-brady-briefing-room-stephen-miller-2026-11-21.md). Gonzo political satire and bounded fact-check of Stephen Miller's November 20 White House remarks. **Annual-versus-cumulative inflation distinguished; reactor criticality left explicitly unresolved.**
+**最新一期 · 2026年11月23日：** [第二十三期《正名》](articles/23-zhengming-2026-11-23.md)。**文言諷刺詩，情節虛構。**
+
+**Previous dispatch — November 21, 2026:** [Dispatch 22: Fear and Loathing in the Brady Briefing Room](articles/22-fear-and-loathing-brady-briefing-room-stephen-miller-2026-11-21.md). Gonzo political satire and bounded fact-check of Stephen Miller's November 20 White House remarks. **Annual-versus-cumulative inflation distinguished; reactor criticality left explicitly unresolved.**
 
 **Previous dispatch — November 19, 2026:** [Dispatch 21: A Modest Proposal for the Improvement of American Civilization Through Grand Theft Auto VI](articles/21-a-modest-proposal-grand-theft-auto-vi-2026-11-19.md). A thirteen-year pilgrimage to digital Florida, where rebellion is licensed and the revolution has a customer-support department. **Satire; fictional figures and scenarios are labeled.**
 
