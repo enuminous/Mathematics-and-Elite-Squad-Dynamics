@@ -37,7 +37,9 @@ This journal publishes exact derivations next to spectacular editorial insolence
 
 **Read online:** [index.html](index.html) (also suitable for GitHub Pages).
 
-**最新一期 · 2026年11月23日：** [第二十三期《正名》](articles/23-zhengming-2026-11-23.md)。**文言諷刺詩，情節虛構。**
+**Latest dispatch · November 24, 2026** · [Dispatch 24 · Can It Run Without Jensen?](articles/24-can-it-run-without-jensen-2026-11-24.md) A gamer can turn on the frame counter. What can a shareholder turn on to find out why the board changed its mind?
+
+**前一期 · 2026年11月23日：** [第二十三期《正名》](articles/23-zhengming-2026-11-23.md)。**文言諷刺詩，情節虛構。**
 
 **Previous dispatch — November 21, 2026:** [Dispatch 22: Fear and Loathing in the Brady Briefing Room](articles/22-fear-and-loathing-brady-briefing-room-stephen-miller-2026-11-21.md). Gonzo political satire and bounded fact-check of Stephen Miller's November 20 White House remarks. **Annual-versus-cumulative inflation distinguished; reactor criticality left explicitly unresolved.**
 
